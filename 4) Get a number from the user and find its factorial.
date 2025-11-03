@@ -8,6 +8,6 @@ while (i<=n) {
     p=p*i;
     i=i+1;
 }
-    cout << p;
+    cout<<"Factorial = "<<p;
     return 0;
 }
